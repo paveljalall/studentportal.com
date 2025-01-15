@@ -4,6 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Student Portal: Your one-stop destination for academic updates, resources, and events.">
+    <meta name="keywords" content="Student Portal, Academic Resources, College Announcements, Feedback, Workshops, Events">
+    <meta name="author" content="Student Portal Team">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#0074D9">
+    <meta http-equiv="Content-Language" content="en-US">
+    <meta name="rating" content="General">
     <title>Student Portal</title>
     <style>
         /* General Styles */
@@ -237,7 +244,7 @@
                 Your browser does not support the video tag.
             </video>
             <audio controls>
-                <source src="./video.mp4" type="audio/mp4">
+                <source src="./audio.mp4" type="audio/mp4">
                 Your browser does not support the audio tag.
             </audio>
         </section>
